@@ -4,3 +4,33 @@
 	align-items:center;
 	gap:3px;
 }
+
+img{
+	height:20px;
+	width:20px;
+}
+
+.skills {
+      margin-top: 20px;
+    }
+
+    .skill {
+      margin-bottom: 10px;
+    }
+
+
+    .skill-bar {
+      height: 5px;
+      width: 100%;
+      background-color: skyblue;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .skill-bar-fill {
+      height: 100%;
+      background-color: blue;
+      border-radius: 4px;
+    }
+
+
